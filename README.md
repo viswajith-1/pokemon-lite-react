@@ -3,3 +3,39 @@
 A responsive, feature-rich Pokedex application built with React, Vite, and Tailwind CSS. This application interacts with the PokéAPI to display Pokémon data, offering search, filtering, pagination, and persistent "Favorites" functionality.
 
 🚀 Live Demo : https://pokemon-lite-react.vercel.app/
+
+---
+
+✨ Key Features
+
+Dynamic Data Fetching: Fetches data asynchronously from PokéAPI.
+
+Responsive Grid: Fully responsive UI (Mobile, Tablet, Desktop) using Tailwind CSS.
+
+Search Functionality: Search by name (supports both exact API lookup and client-side filtering).
+
+Type Filtering: Filter Pokémon by their elemental type (Fire, Water, etc.).
+
+Pagination: Navigate through thousands of Pokémon using Next/Previous controls.
+
+Detailed Modal: Click any card to view detailed stats (HP, Attack, etc.) and abilities.
+
+Favorites System: Mark Pokémon as favorites. Data persists on refresh using Local Storage.
+
+---
+
+🚀 Getting Started
+Follow these steps to run the project locally:
+
+Prerequisites
+Node.js (v14 or higher)
+
+npm or yarn
+
+Installation
+Clone the repository
+
+Bash
+
+git clone https://github.com/your-username/pokedex-lite.git
+cd pokedex-lite
