@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { usePokemonData } from './hooks/usePokemonData';
 import { useFavorites } from './hooks/useFavorites';
-import { getPokemonByName } from './api/pokeapi';
+import { getPokemonByName } from './api/pokeApi';
 
 // Components
 import Header from './components/layout/Header';
