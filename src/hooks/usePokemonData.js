@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { getPokemonList, getPokemonDetails } from '../api/pokeapi';
+import { getPokemonList, getPokemonDetails } from '../api/pokeApi';
 
 export const usePokemonData = () => {
   const [pokemon, setPokemon] = useState([]);
