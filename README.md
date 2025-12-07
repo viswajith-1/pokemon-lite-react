@@ -32,10 +32,8 @@ Node.js (v14 or higher)
 
 npm or yarn
 
-Installation
+1. Installation
 Clone the repository
 
-Bash
-
-git clone https://github.com/your-username/pokedex-lite.git
-cd pokedex-lite
+git clone https://github.com/viswajith-1/pokemon-lite-react.git
+cd pokedex-lite-react
