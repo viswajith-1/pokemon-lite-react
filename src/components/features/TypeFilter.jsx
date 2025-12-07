@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import {  getPokemonTypes } from '../../api/pokeapi';
+import {  getPokemonTypes } from '../../api/pokeApi';
 
 const TypeFilter = ({ selectedType, onSelectType }) => {
   const [types, setTypes] = useState([]);
