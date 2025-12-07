@@ -35,5 +35,24 @@ npm or yarn
 1. Installation
 Clone the repository
 
+```bash
 git clone https://github.com/viswajith-1/pokemon-lite-react.git
 cd pokedex-lite-react
+```
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the development server
+
+```bash
+npm run dev
+```
+
+4. Build for production
+
+```bash
+npm run build
+```
